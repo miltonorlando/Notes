@@ -10,3 +10,10 @@
 ### 53 $\textnormal{- Domain Name System (DNS)}$
 
 ### 67 & 68 $\textnormal{- Dynamic Host Configuration Protocol (DHCP)}$
+
+### 80 $\textnormal{- Hypertext Transfer Protocol (HTTP)}$
+
+### 110 $\textnormal{- Post Office Protocol (POP3) version 3}$
+
+### 123 $\textnormal{- Network Time Protocol (NTP)}$
+
