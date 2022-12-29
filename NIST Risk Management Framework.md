@@ -3,9 +3,15 @@ The Risk Management Framework offers a method for incorporating risk management 
 
 <b>Steps Inlcude:</b>
 ## Prepare
+
 ## Categorize 
+
 ## Select 
+
 ## Implement 
+
 ## Assess 
+
 ## Authorize
+
 ## Monitor
