@@ -1,4 +1,8 @@
 # Common Port Numbers
-<h2> 21 </h2> - File Transfer Protocol (FTP)
+### 20 & 21 $\textnormal{ - File Transfer Protocol (FTP)}$
 
-### <b>22</b> - Secure Shell (SSH) 
+### 22 $\textnormal{- Secure Shell (SSH)}$
+
+### 23 $\textnormal{- Telnet}$
+
+### 53 $\textnormal{- Domain Name System (DNS)}$
