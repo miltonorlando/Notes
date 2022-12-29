@@ -23,5 +23,3 @@ Provide  accountability by requiring a senior official to determine if the secur
 
 ## Monitor
 Continously monitor and maintain ongoing situational awareness about the security and privacy posture of the system and organization to support risk management decisions.
-
-### Outcomes
