@@ -1,3 +1,2 @@
 # Common Port Numbers
-### 21 - 
-d
+<b>21</b> - File Transfer Protocol (FTP)
