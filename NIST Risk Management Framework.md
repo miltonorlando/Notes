@@ -4,7 +4,7 @@ The Risk Management Framework offers a method for incorporating risk management 
 <b>Steps Inlcude:</b>
 - Prepare 
 
-Carry out essential activities to help prepare all levels of the organization to manage its security and privacy risks using the RMF.
+-- Carry out essential activities to help prepare all levels of the organization to manage its security and privacy risks using the RMF.
 
 ## Categorize 
 Categorize the system and information processed, stored, and transmitted based on an impact analysis.
