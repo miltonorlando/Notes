@@ -6,3 +6,7 @@
 ### 23 $\textnormal{- Telnet}$
 
 ### 53 $\textnormal{- Domain Name System (DNS)}$
+
+### 53 $\textnormal{- Domain Name System (DNS)}$
+
+### 67 & 68 $\textnormal{- Dynamic Host Configuration Protocol (DHCP)}$
