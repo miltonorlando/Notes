@@ -5,7 +5,7 @@
 
 ### 23 $\textnormal{- Telnet}$
 
-### 53 $\textnormal{- Domain Name System (DNS)}$
+### 25 $\textnormal{- Simple Mail Transfer Protocol (SMTP)}$
 
 ### 53 $\textnormal{- Domain Name System (DNS)}$
 
