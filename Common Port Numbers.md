@@ -1,4 +1,4 @@
 # Common Port Numbers
-### <b>21</b> - File Transfer Protocol (FTP)
+### 21 - <p> File Transfer Protocol (FTP) <p>
 
 ### <b>22</b> - Secure Shell (SSH) 
