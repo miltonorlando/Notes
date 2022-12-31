@@ -5,13 +5,13 @@
 
 ## 23 $\textnormal{- Telnet}$
 
-### 25 $\textnormal{- Simple Mail Transfer Protocol (SMTP)}$
+## 25 $\textnormal{- Simple Mail Transfer Protocol (SMTP)}$
 
-### 53 $\textnormal{- Domain Name System (DNS)}$
+## 53 $\textnormal{- Domain Name System (DNS)}$
 
-### 67 & 68 $\textnormal{- Dynamic Host Configuration Protocol (DHCP)}$
+## 67 & 68 $\textnormal{- Dynamic Host Configuration Protocol (DHCP)}$
 
-### 80 $\textnormal{- Hypertext Transfer Protocol (HTTP)}$
+## 80 $\textnormal{- Hypertext Transfer Protocol (HTTP)}$
 
 ### 110 $\textnormal{- Post Office Protocol (POP3) version 3}$
 
