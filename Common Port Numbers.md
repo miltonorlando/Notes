@@ -1,5 +1,5 @@
 # Common Port Numbers
-### 20 & 21 $\textnormal{ - File Transfer Protocol (FTP)}$
+## 20 & 21 $\textnormal{ - File Transfer Protocol (FTP)}$
 
 ### 22 $\textnormal{- Secure Shell (SSH)}$
 
