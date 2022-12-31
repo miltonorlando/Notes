@@ -1,9 +1,9 @@
 # Common Port Numbers
 ## 20 & 21 $\textnormal{ - File Transfer Protocol (FTP)}$
 
-### 22 $\textnormal{- Secure Shell (SSH)}$
+## 22 $\textnormal{- Secure Shell (SSH)}$
 
-### 23 $\textnormal{- Telnet}$
+## 23 $\textnormal{- Telnet}$
 
 ### 25 $\textnormal{- Simple Mail Transfer Protocol (SMTP)}$
 
