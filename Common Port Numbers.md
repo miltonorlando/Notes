@@ -13,7 +13,7 @@
 
 ## 80 $\textnormal{- Hypertext Transfer Protocol (HTTP)}$
 
-### 110 $\textnormal{- Post Office Protocol (POP3) version 3}$
+## 110 $\textnormal{- Post Office Protocol (POP3) version 3}$
 
 ### 123 $\textnormal{- Network Time Protocol (NTP)}$
 
