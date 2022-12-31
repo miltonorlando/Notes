@@ -15,7 +15,7 @@
 
 ## 110 $\textnormal{- Post Office Protocol (POP3) version 3}$
 
-### 123 $\textnormal{- Network Time Protocol (NTP)}$
+## 123 $\textnormal{- Network Time Protocol (NTP)}$
 
 ### 143 $\textnormal{- Internet Message Access Protocol (IMAP)}$
 
